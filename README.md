@@ -1,5 +1,5 @@
 # 💫 About Me:
-I;m a 23 year old college student majoring in Computer Science & Mathematics. <br>
+I'm a 23 year old college student majoring in Computer Science & Mathematics. <br>
 Aspiring Game Developer/Programmer. <br>
 Currently learning UnityHub and C++<br>
 Also running Arch btw
