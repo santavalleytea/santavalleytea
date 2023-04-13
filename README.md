@@ -1,7 +1,7 @@
 # 💫 About Me:
 College student majoring in Computer Science & Mathematics. <br>
-Aspiring Game Developer/Programmer. <br>
-Currently learning UnityHub and C++<br>
+Aspiring Game Programmer/Designer. <br>
+Currently learning Unreal Engine and C++<br>
 Also running Arch btw
 
 # 💻 Programming Languages/Others:
