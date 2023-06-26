@@ -1,6 +1,6 @@
 # 💫 About Me:
-First year college student majoring in Computer Science & Mathematics. <br>
-Currently learning Unreal Engine 5 and C++<br>
+Majoring in Computer Science & Mathematics. <br>
+Currently learning C++<br>
 Also running Arch btw
 
 # 💻 Programming Languages/Others:
