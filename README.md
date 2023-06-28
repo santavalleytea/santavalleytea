@@ -18,10 +18,10 @@ Discord: santavalleytea<br>
 Email: takayaueno0712@gmail.com
 
 # 📊 GitHub Stats:
-
-| GitHub Stats | Top Languages |
-| ------------ | ------------- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santavalleytea&theme=gotham&hide_border=false&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santavalleytea&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+<p align = 'left'>
+  <img height = "200px" src = https://github-readme-stats.vercel.app/api?username=santavalleytea&theme=gotham&hide_border=false&include_all_commits=true&count_private=true/>
+  <img height = "200px" src = https://github-readme-stats.vercel.app/api/top-langs/?username=santavalleytea&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact
 ---
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
