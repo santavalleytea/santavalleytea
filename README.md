@@ -1,9 +1,9 @@
-# <img src="https://github.com/santavalleytea/santavalleytea/assets/119724608/32027fc7-79af-440a-9464-caea27de70ac" style="width: 28px;"> About Me:
+# 🎮 About Me:
 Majoring in Computer Science & Mathematics. <br>
 Currently learning C++<br>
 Also running Arch btw
 
-# 💻 Programming Languages/Others:
+# 🖥️ Programming Languages/Others:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br>
