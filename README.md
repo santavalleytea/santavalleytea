@@ -1,6 +1,6 @@
 # 🎮 About Me:
 Majoring in Computer Science & Mathematics. <br>
-Currently learning C++<br>
+Currently learning C# and Unity <br>
 Also running Arch btw
 
 # 🖥️ Programming Languages/Others:
