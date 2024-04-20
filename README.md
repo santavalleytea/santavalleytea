@@ -1,6 +1,6 @@
 # 🎮 About Me:
 Studying Mathematics & Computer Science <br>
-Currently learning C <br>
+Currently learning C++ <br>
 Also running Arch btw
 
 # 🖥️ Programming Languages/Others:
@@ -14,7 +14,7 @@ Also running Arch btw
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 
 ## 🌐 Socials:
-Discord: santavalleytea<br>
+Discord: naeviswinter<br>
 Email: takayaueno0712@gmail.com
 
 # 📊 GitHub Stats:
