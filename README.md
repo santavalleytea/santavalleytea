@@ -1,6 +1,5 @@
 ## 🎮 About Me:
 Studying Mathematics & Computer Science <br>
-Currently learning C++ <br>
 
 ## 🖥️ Programming Languages/Others:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
