@@ -9,14 +9,12 @@ Studying Mathematics & Computer Science <br>
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) <br>
+![santavalleytea's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santavalleytea&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ## 📊 GitHub Stats:
-<p align="left">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=santavalleytea&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santavalleytea&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
+![santavalleytea's Stats](https://github-readme-stats.vercel.app/api?username=santavalleytea&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![santavalleytea's Streak](https://github-readme-streak-stats.herokuapp.com/?user=santavalleytea&theme=tokyonight&hide_border=true)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🌐 Socials:
