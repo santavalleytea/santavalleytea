@@ -12,7 +12,7 @@ Studying Mathematics & Computer Science <br>
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ## 📊 GitHub Stats:
-![santavalleytea's Stats](https://github-readme-stats.vercel.app/api?username=santavalleytea&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![santavalleytea's Stats](https://github-readme-stats.vercel.app/api?username=santavalleytea&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&hide=contribs)
 ![santavalleytea's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santavalleytea&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
